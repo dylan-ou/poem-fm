@@ -1,3 +1,3 @@
 # poem-fm
 
-This is a music project
+This is a generative music project
